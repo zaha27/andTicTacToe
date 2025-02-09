@@ -2,7 +2,7 @@
 function App() {
   
 
-    return (
+return (
       <p>coming soon ...</p>
     )
   }
