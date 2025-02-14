@@ -1,10 +1,9 @@
 
 function App() {
-  
 
 return (
       <main>
-        <div className="game-container">
+        <div id="game-container">
           <ol id="players">
             <li>
               <span className="player-name">Player 1</span>
