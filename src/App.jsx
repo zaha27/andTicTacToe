@@ -7,5 +7,9 @@ return (
     )
   }
   
+  window.App = app 
+
+
+
   export default App
   
