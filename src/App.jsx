@@ -6,8 +6,8 @@ return (
       <main>
         <div id="game-container">
           <ol id="players">
-            <Player />
-            <Player />
+            <Player name = "Player1" symbol = "O"/>
+            <Player name = "Player2" symbol = "X"/>
           </ol>
         </div>
 
