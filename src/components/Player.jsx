@@ -1,4 +1,4 @@
-export default function Player(name, symbol) {
+export default function Player({name, symbol}) {
 
     return (
         <li>
@@ -8,7 +8,6 @@ export default function Player(name, symbol) {
               </span>
               <button>Edit</button>
         </li>
-
     )
 
 }
